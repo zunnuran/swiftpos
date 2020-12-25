@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebe745bc-9001-4128-b85f-9e45a147a230" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/Accounts/Sellers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Accounts/Suppliers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Assets/Images/image-placeholder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Assets/Images/user-placeholder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Products/Categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Products/CategoryForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Products/CategoryList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Products/Products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Products/ProductsForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Products/ProductsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Purchases/Purchase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Purchases/PurchaseReturn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Sales/Sale.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Sales/SaleReturn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/layouts/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/layouts/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/layouts/SideNav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/layouts/TopNav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="React Class" />
+        <option value="React Class Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1kTT7pNcAPARRXe1YIprBc6KCe2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/Products" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\swiftpos\client\src\Products" />
+      <recent name="D:\swiftpos\client\src\Assets\Images" />
+      <recent name="D:\swiftpos\client\src\Asseets\Images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebe745bc-9001-4128-b85f-9e45a147a230" name="Default Changelist" comment="" />
+      <created>1605723416738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605723416738</updated>
+      <workItem from="1605723419864" duration="668000" />
+      <workItem from="1605803339560" duration="1878000" />
+      <workItem from="1605894127643" duration="6040000" />
+      <workItem from="1606151893313" duration="8909000" />
+      <workItem from="1606257792338" duration="5579000" />
+      <workItem from="1607359164706" duration="11810000" />
+      <workItem from="1607537943214" duration="9704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
